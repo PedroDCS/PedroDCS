@@ -1,6 +1,11 @@
-### Hi there, I'm Pedro 👋
+<h1 align="center">Hi 👋, I'm Pedro</h1>
+<h3 align="center">I am currently a computer science student at IFMG - Campus Formiga</h3>
 
-<h2>Onde me encontrar 🔍</h2><br>
+ 🔭 I'm currently working on my personal project [Piores Cartas](https://piorescartas.web.app/)
+
+<hr>
+
+<h3>Where to Find Me 🔍</h3><br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/PedroDCS)](https://github.com/PedroDCS)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/pedro-daniel-camargos-soares/)](https://www.linkedin.com/in/pedro-daniel-camargos-soares/)
@@ -21,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrodcs&label=Profile%20views&color=0e75b6&style=flat" alt="pedrodcs" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrodcs" alt="pedrodcs" /></a> </p>
