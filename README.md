@@ -64,6 +64,7 @@
 <hr>
 
 <div align='center'>
+<h3 align="">More information</h3><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrodcs&show_icons=true&locale=en&layout=compact&theme=onedark" alt="pedrodcs"/>
 </p>
