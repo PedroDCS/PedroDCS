@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-[![Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]
+![Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
 
