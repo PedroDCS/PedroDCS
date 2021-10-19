@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">I am currently a computer science student at IFMG - Campus Formiga</h3>
+<h3 align="center">I'm currently a computer science student at IFMG - Campus Formiga</h3>
 
- 🔭 I'm currently working on my personal project [Piores Cartas](https://piorescartas.web.app/)
-
+<p>I'm currently working on my personal project [Piores Cartas](https://piorescartas.web.app/)</p>
 <hr>
 
 <h3>Where to Find Me 🔍</h3><br>
@@ -28,4 +27,4 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrodcs&label=Profile%20views&color=0e75b6&style=flat" alt="pedrodcs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrodcs" alt="pedrodcs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrodcs&theme=onedark" alt="pedrodcs" /></a> </p>
