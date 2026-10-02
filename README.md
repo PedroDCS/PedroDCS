@@ -4,7 +4,7 @@
   <img alt="GIF" src="https://media2.giphy.com/media/DBW3BniaWrFo4/giphy.gif?cid=790b761118014de1388136e085518dffbe83362e906faffd&rid=giphy.gif&ct=g" width= 400 />
 </div>
 
-<h3 align="center">I'm currently a computer science student at IFMG - Campus Formiga</h3>
+<!-- <h3 align="center">I'm currently a computer science student at IFMG - Campus Formiga</h3> -->
 <hr>
 <br>
 
